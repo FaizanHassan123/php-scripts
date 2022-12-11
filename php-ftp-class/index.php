@@ -1,6 +1,6 @@
 <?php
 
-include (MY_Ftp.php)
+include (MY_Ftp.php);
 
 // parameters
 $params = array(
